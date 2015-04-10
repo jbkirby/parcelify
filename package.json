@@ -17,7 +17,7 @@
     "async": "~0.2.10",
     "glob": "~3.2.9",
     "toposort": "~0.2.10",
-    "watchify": "~0.7.0",
+    "watchify": "~3.1.0",
     "globwatcher": "~1.2.3",
     "resolve": "~0.6.1",
     "stream-combiner": "0.0.4",
